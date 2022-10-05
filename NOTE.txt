@@ -1,5 +1,0 @@
-checkHash.cpp had een fout: 
-line 38: std::string calcMD5( std::string bron ) {oo
-
-
-"oo"
